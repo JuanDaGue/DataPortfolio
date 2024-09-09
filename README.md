@@ -1,4 +1,4 @@
-# Juan David Guerrero - Portfolio
+# Juan David Guerrero - Portfolio URL: https://juandague.github.io/DataPortfolio/
 
 Welcome to my portfolio! This project showcases my skills and experience as an Astronomer, Data Scientist, and Web Developer. Below, you'll find an overview of the portfolio, instructions for running it, and a brief summary of the projects included.
 
